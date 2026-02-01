@@ -3,6 +3,8 @@
 <<h1 align="center">Hi 👋, I'm AKASH SARKAR</h1>
 <h3 align="center">A passionate CODER</h3>
 
+<img align="right" alt="coding" width="350" src="<img width="240" height="180" alt="image" src="https://github.com/user-attachments/assets/6c517d13-77d8-4785-a4e4-67a798c15327" />
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash22-11&label=Profile%20views&color=0e75b6&style=flat" alt="akash22-11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash22-11" alt="akash22-11" /></a> </p>
