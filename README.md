@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Akash%20Sarkar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:DBEAFE,100:BFDBFE&height=220&section=header&text=Akash%20Sarkar&fontSize=45&fontColor=1E3A8A&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akash Sarkar</h1>
