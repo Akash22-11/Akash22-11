@@ -89,5 +89,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:F1F5F9,100:E2E8F0&height=220&section=header&text=Akash%20Sarkar&fontSize=45&fontColor=0F172A&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:F1F5F9,100:E2E8F0&height=220&section=header&text=A%20CODER&fontSize=45&fontColor=0F172A&animation=twinkling" />
 </p>
