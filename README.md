@@ -12,7 +12,13 @@
 
 <h3 align="center">✨ Turning Ideas into Real-World Solutions ✨</h3>
 
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:FCA5A5,100:DC2626&height=4&animation=blink" width="100%" />
+</p>
 
 <!-- BADGES -->
 <p align="center">
@@ -21,7 +27,9 @@
   <img src="https://img.shields.io/github/stars/Akash22-11?style=for-the-badge&color=DC2626&labelColor=7F1D1D&logo=github&logoColor=white&label=Stars" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:FCA5A5,100:FFFFFF&height=4&animation=blink" width="100%" />
+</p>
 
 ## 💡 About Me
 
@@ -31,7 +39,9 @@
 - 💬 Ask me about **React, Node.js, JavaScript, Python**
 - ⚡ Fun fact: *I grow by building, breaking, and rebuilding*
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:FCA5A5,100:DC2626&height=4&animation=blink" width="100%" />
+</p>
 
 ## 🌐 Connect With Me
 
@@ -44,7 +54,9 @@
   </a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:FCA5A5,100:FFFFFF&height=4&animation=blink" width="100%" />
+</p>
 
 ## ⚡ Tech Stack
 
@@ -60,7 +72,9 @@
   <img src="https://img.shields.io/badge/Git-DC2626?style=for-the-badge&logo=git&logoColor=white&labelColor=7F1D1D" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:FCA5A5,100:DC2626&height=4&animation=blink" width="100%" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -78,7 +92,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash22-11&theme=minimal&bg_color=FFFFFF&color=DC2626&line=DC2626&point=7F1D1D&area=true&area_color=FCA5A5&hide_border=true" width="95%" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:FCA5A5,100:FFFFFF&height=4&animation=blink" width="100%" />
+</p>
 
 ## 🏆 Trophies
 
@@ -86,7 +102,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Akash22-11&theme=flat&no-frame=true&no-bg=true&row=1&column=7&title_color=DC2626&icon_color=DC2626&text_color=1F2937" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:FCA5A5,100:DC2626&height=4&animation=blink" width="100%" />
+</p>
 
 ## 🐍 Contribution Snake
 
@@ -100,13 +118,21 @@
   under the `outputs:` palette option.
 -->
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:FCA5A5,100:FFFFFF&height=4&animation=blink" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC2626&size=20&center=true&vCenter=true&width=700&lines=Code.+Break.+Rebuild.+Repeat.;Always+shipping+something+new+🔥" />
+</p>
 
 ## 🎯 Vision
 
 > Building impactful tech that solves real-world problems and scales globally 🌍
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:FCA5A5,100:DC2626&height=4&animation=blink" width="100%" />
+</p>
 
 <!-- FOOTER -->
 <p align="center">
