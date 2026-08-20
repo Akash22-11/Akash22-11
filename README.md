@@ -216,6 +216,7 @@ A predictive machine-learning project designed to estimate movie ratings from re
 OOP
 DSA
 Problem Solving
+AI
 
 </td>
 
@@ -275,18 +276,7 @@ Full Stack
 
 ---
 
-# 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash22-11&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=4B5563&icon_color=DC2626&ring_color=DC2626" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash22-11&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=4B5563" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Akash22-11&theme=default&hide_border=true&background=FFFFFF&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=374151&dates=6B7280" width="70%"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
