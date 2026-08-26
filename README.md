@@ -278,13 +278,6 @@ Full Stack
 
 
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash22-11&bg_color=FFFFFF&color=111827&line=DC2626&point=DC2626&area=true&area_color=FEE2E2&hide_border=true" width="95%"/>
-</p>
-
----
 
 
 ---
