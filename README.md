@@ -1,15 +1,13 @@
 <!-- ========================================================= -->
-
 <!--                    MANGA COVER / HERO                     -->
-
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=180&section=header&text=AKASH%20SARKAR&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
+  <img src="./assets/manga-hero-banner.svg" width="100%" alt="Akash Sarkar — The Developer Arc Begins"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=700&color=DC2626&center=true&vCenter=true&width=850&lines=THE+DEVELOPER+ARC+BEGINS...;Python+%7C+Backend+%7C+Data+Science;Building+%E2%80%A2+Breaking+%E2%80%A2+Debugging;Exploring+AI+%26+Modern+Technology;LEVELING+UP+ONE+PROJECT+AT+A+TIME" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=700&color=DC2626&center=true&vCenter=true&width=850&lines=Python+%7C+Backend+%7C+Data+Science;Building+%E2%80%A2+Breaking+%E2%80%A2+Debugging;Exploring+AI+%26+Modern+Technology;LEVELING+UP+ONE+PROJECT+AT+A+TIME" />
 </p>
 
 <p align="center">
@@ -423,7 +421,7 @@ Modern Web
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash22-11&hide_border=true&background=FFFFFF&ring=DC2626&fire=DC2626&currStreakLabel=111111"/>
+<img src="https://streak-stats.demolab.com/?user=Akash22-11&hide_border=true&background=FFFFFF&ring=DC2626&fire=DC2626&currStreakLabel=111111"/>
 
 </p>
 
