@@ -1,70 +1,171 @@
 <!-- ========================================================= -->
 
-<!--                         HERO                              -->
+<!--                    MANGA COVER / HERO                     -->
 
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=header&text=AKASH%20SARKAR&fontSize=48&fontColor=111827&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=180&section=header&text=AKASH%20SARKAR&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=DC2626&center=true&vCenter=true&width=850&lines=Software+Developer+in+Progress;Python+%7C+Backend+%7C+Data+Science;Building+Real-World+Projects;Exploring+AI+%26+Modern+Technology;Problem+Solver+%7C+Tech+Explorer;Learn+%E2%80%A2+Build+%E2%80%A2+Ship+%E2%80%A2+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=700&color=DC2626&center=true&vCenter=true&width=850&lines=THE+DEVELOPER+ARC+BEGINS...;Python+%7C+Backend+%7C+Data+Science;Building+%E2%80%A2+Breaking+%E2%80%A2+Debugging;Exploring+AI+%26+Modern+Technology;LEVELING+UP+ONE+PROJECT+AT+A+TIME" />
 </p>
 
 <p align="center">
-  <strong>Building technology. Solving problems. Learning every day.</strong>
+  <strong>「 CODE IS MY WEAPON. CURIOSITY IS MY POWER. 」</strong>
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/Akash22-11">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/akash-sarkar-3948a8380">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Akash22-11&style=for-the-badge&color=DC2626&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Akash22-11&style=for-the-badge&color=DC2626&label=READERS"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 漫画 · CHARACTER PROFILE
 
-I'm an **Information Technology student** passionate about software development, problem solving and exploring emerging technologies.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-I enjoy taking an idea, understanding the problem behind it, and turning it into something that actually works.
+## ⚔️ AKASH SARKAR
+
+**Class:** Information Technology Student
+**Role:** Developer in Progress
+**Specialization:** Python • Backend • Data
+**Current Arc:** Engineering & Problem Solving
+
+> *"The strongest developers aren't the ones who know everything.*
+> *They're the ones who keep learning."*
+
+I enjoy taking real-world problems, breaking them into smaller pieces, and turning ideas into working software.
+
+My current journey revolves around:
+
+* 🐍 Python
+* ⚙️ Backend Engineering
+* 🧠 Machine Learning
+* 📊 Data Science
+* 🧩 DSA & Problem Solving
+* 🌐 Full-Stack Development
+
+</td>
+
+<td width="45%" valign="top">
+
+## 📊 POWER LEVEL
+
+```text
+Python          █████████░  90%
+Backend         ███████░░░  70%
+Data Science    ███████░░░  70%
+Web Development ███████░░░  70%
+DSA             ██████░░░░  60%
+Machine Learning██████░░░░  60%
+```
+
+### CURRENT QUEST
+
+> Build better software
+> Solve harder problems
+> Learn something new every day
+> Ship real projects
+
+### STATUS
+
+🟢 ONLINE
+⚡ LEARNING
+🔥 BUILDING
+🎯 LEVELING UP
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🗡️ THE DEVELOPER'S CODE
+
+<p align="center">
+
+### LEARN → BUILD → BREAK → DEBUG → IMPROVE → SHIP
+
+</p>
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="20%">
 
-### ⚡ What I Do
+## 01
 
-* 🐍 Build applications with **Python**
-* 🌐 Develop modern **web applications**
-* ⚙️ Work with **backend systems & APIs**
-* 📊 Explore **Data Science & Machine Learning**
-* 🧩 Practice **Data Structures & Algorithms**
-* 🚀 Build projects around real-world problems
+### 📖
+
+**LEARN**
+
+Master the fundamentals.
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="5%">
 
-### 🔭 Current Focus
+→
 
-**Backend Engineering**
-Building APIs, services and database-driven applications.
+</td>
 
-**Data & AI**
-Exploring machine learning, NLP and practical data science.
+<td align="center" width="20%">
 
-**DSA**
-Improving algorithmic thinking and problem-solving skills.
+## 02
 
-**Projects**
-Learning by building, testing and shipping real applications.
+### ⚙️
+
+**BUILD**
+
+Turn knowledge into code.
+
+</td>
+
+<td align="center" width="5%">
+
+→
+
+</td>
+
+<td align="center" width="20%">
+
+## 03
+
+### 💥
+
+**BREAK**
+
+Discover what fails.
+
+</td>
+
+<td align="center" width="5%">
+
+→
+
+</td>
+
+<td align="center" width="20%">
+
+## 04
+
+### 🔧
+
+**DEBUG**
+
+Fix. Optimize. Refactor.
 
 </td>
 
@@ -73,79 +174,81 @@ Learning by building, testing and shipping real applications.
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ TECHNIQUE ARSENAL
 
-### 💻 Languages
+## 「 LANGUAGES 」
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,c&theme=light"/>
 </p>
 
-### 🌐 Web Development
+## 「 WEB DEVELOPMENT 」
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,django&theme=light"/>
 </p>
 
-### 🗄️ Database & Backend
+## 「 DATABASE / BACKEND 」
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=light" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=light"/>
 </p>
 
-### 🧠 Data & Machine Learning
+## 「 DATA / AI 」
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-### 🧰 Tools
+## 「 DEVELOPER TOOLS 」
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🔥 PROJECT ARC
+
+> **Every project is another chapter.**
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🚑 The_Helper
+# 🚑 THE_HELPER
 
-### Emergency Healthcare System
+### 「 EMERGENCY SYSTEM 」
 
-A real-world focused project designed around emergency assistance and healthcare-related workflows.
+A real-world focused application designed around emergency assistance and healthcare-related workflows.
 
-**Built with**
+**STACK**
 
 `Python` `Django` `JavaScript`
 
-**Focus**
+**ARC**
 
-`Healthcare` `Backend` `Web`
+`Backend` `Web Development` `Real World Problem`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📰 Fake News Detector
+# 📰 FAKE NEWS DETECTOR
 
-### NLP & Machine Learning
+### 「 TRUTH × MACHINE LEARNING 」
 
-A machine-learning project that analyzes textual features to identify potentially misleading or fake news.
+An ML system that analyzes textual patterns and features to identify potentially misleading information.
 
-**Built with**
+**STACK**
 
 `Python` `NLP` `Scikit-Learn`
 
-**Focus**
+**ARC**
 
 `Machine Learning` `NLP` `Data Science`
 
@@ -157,17 +260,17 @@ A machine-learning project that analyzes textual features to identify potentiall
 
 <td width="50%" valign="top">
 
-## 🛣️ Lane Detection
+# 🛣️ LANE DETECTION
 
-### Computer Vision
+### 「 VISION SYSTEM 」
 
 A computer vision project focused on detecting road lanes from visual input.
 
-**Built with**
+**STACK**
 
 `Python` `OpenCV`
 
-**Focus**
+**ARC**
 
 `Computer Vision` `Image Processing`
 
@@ -175,17 +278,17 @@ A computer vision project focused on detecting road lanes from visual input.
 
 <td width="50%" valign="top">
 
-## 🎬 Movie Rating Prediction
+# 🎬 MOVIE RATING PREDICTION
 
-### Machine Learning
+### 「 DATA × PREDICTION 」
 
-A predictive machine-learning project designed to estimate movie ratings from relevant movie features.
+A machine-learning project designed to predict movie ratings using relevant movie features.
 
-**Built with**
+**STACK**
 
 `Python` `Pandas` `Scikit-Learn`
 
-**Focus**
+**ARC**
 
 `Machine Learning` `Prediction`
 
@@ -195,23 +298,25 @@ A predictive machine-learning project designed to estimate movie ratings from re
 </table>
 
 <p align="center">
-  <a href="https://github.com/Akash22-11?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/Akash22-11?tab=repositories">
+<img src="https://img.shields.io/badge/ENTER_THE_PROJECT_ARCHIVE-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 🧪 Currently Learning
+# 🧠 TRAINING ARC
 
 <table>
 <tr>
 
 <td width="25%" align="center">
 
-### 🐍
+# 🐍
 
-**Python**
+## PYTHON
 
 OOP
 DSA
@@ -222,38 +327,40 @@ AI
 
 <td width="25%" align="center">
 
-### ⚙️
+# ⚙️
 
-**Backend**
+## BACKEND
 
 Django
 REST APIs
 Databases
+Architecture
 
 </td>
 
 <td width="25%" align="center">
 
-### 🧠
+# 🧠
 
-**Data / AI**
+## DATA / AI
 
 NumPy
 Pandas
-ML
+Machine Learning
 NLP
 
 </td>
 
 <td width="25%" align="center">
 
-### 🌐
+# 🌐
 
-**Web**
+## WEB
 
 React
 Node.js
 Full Stack
+Modern Web
 
 </td>
 
@@ -262,27 +369,43 @@ Full Stack
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 STORY ARC
 
-| Focus                   | Goal                                              |
-| :---------------------- | :------------------------------------------------ |
-| 🧩 **DSA**              | Strengthen problem-solving & algorithmic thinking |
-| 🐍 **Python**           | Become highly proficient with Python              |
-| ⚙️ **Backend**          | Build production-oriented APIs                    |
-| 🧠 **Machine Learning** | Build practical ML applications                   |
-| 🌐 **Web Development**  | Create complete full-stack projects               |
-| 🚀 **Projects**         | Ship more real-world software                     |
-| 💼 **Career**           | Prepare for internships & placements              |
+> **MISSION: BECOME A BETTER ENGINEER**
 
----
-
-
-
-
+| ARC                | OBJECTIVE                            |
+| :----------------- | :----------------------------------- |
+| 🧩 **DSA ARC**     | Strengthen algorithmic thinking      |
+| 🐍 **PYTHON ARC**  | Become highly proficient with Python |
+| ⚙️ **BACKEND ARC** | Build production-oriented APIs       |
+| 🧠 **AI ARC**      | Build practical ML applications      |
+| 🌐 **WEB ARC**     | Create complete full-stack projects  |
+| 🚀 **PROJECT ARC** | Ship more real-world software        |
+| 💼 **CAREER ARC**  | Prepare for internships & placements |
 
 ---
 
-# 🐍 Contribution Snake
+# 💀 CURRENT BOSS BATTLES
+
+```text
+╔══════════════════════════════════════════════╗
+║              CURRENT CHALLENGES              ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  [████████░░]  Data Structures               ║
+║  [███████░░░]  Backend Engineering           ║
+║  [███████░░░]  Machine Learning              ║
+║  [██████░░░░]  System Design                 ║
+║  [██████░░░░]  Full Stack Development        ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+> **The boss gets stronger. So do I.**
+
+---
+
+# 🐍 CONTRIBUTION ARC
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
@@ -290,113 +413,105 @@ Full Stack
 
 ---
 
-# 🧠 Engineering Mindset
+# 📈 DEVELOPER STATS
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akash22-11&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=DC2626&text_color=333333"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash22-11&hide_border=true&background=FFFFFF&ring=DC2626&fire=DC2626&currStreakLabel=111111"/>
+
+</p>
+
+---
+
+# 📜 DEVELOPER PHILOSOPHY
+
+<p align="center">
+
+## 「 DON'T JUST LEARN TECHNOLOGY. BUILD SOMETHING WITH IT. 」
+
+</p>
+
+<p align="center">
+
+I believe engineering is a continuous cycle of
+**learning → experimenting → failing → debugging → improving.**
+
+Every bug is a lesson.
+Every project is a chapter.
+Every failure is another level cleared.
+
+</p>
+
+---
+
+# 🤝 FINAL PANEL
 
 <table>
 <tr>
 
-<td align="center" width="20%">
+<td width="65%" valign="top">
 
-### 01
+## THE NEXT CHAPTER STARTS NOW.
 
-**LEARN**
+I'm always interested in:
 
-Understand the fundamentals.
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-
-### 02
-
-**BUILD**
-
-Turn knowledge into projects.
+* 🤝 Collaboration
+* 🚀 Interesting projects
+* 🧠 Learning new technologies
+* 💡 Building useful products
+* 💼 Internship & career opportunities
 
 </td>
 
-<td align="center">→</td>
+<td width="35%" align="center">
 
-<td align="center" width="20%">
+# ⚡
 
-### 03
+### KEEP BUILDING.
 
-**BREAK**
+### KEEP LEARNING.
 
-Find what doesn't work.
+### KEEP SHIPPING.
 
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-
-### 04
-
-**IMPROVE**
-
-Debug. Optimize. Refactor.
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-
-### 05
-
-**SHIP**
-
-Make it real.
+**— AKASH**
 
 </td>
 
 </tr>
 </table>
 
----
-
-# 💭 Developer Philosophy
-
-<p align="center">
-
-> **"Don't just learn technology. Build something with it."**
-
-</p>
-
-<p align="center">
-  I believe the fastest way to grow as an engineer is to keep
-  building, experimenting, failing, debugging and trying again.
-</p>
-
----
-
-# 🤝 Let's Connect
-
 <p align="center">
 
 <a href="https://github.com/Akash22-11">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/akash-sarkar-3948a8380">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
+---
+
 <p align="center">
-  <strong>Open to collaboration • Projects • Learning • Opportunities</strong>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=120&section=footer"/>
+
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
+
+<strong>「 END OF CHAPTER 01 — MORE TO COME... 」</strong>
+
 </p>
 
 <p align="center">
-  <sub>Built with ❤️, curiosity and code.</sub>
+  <sub>Built with code, curiosity & countless debugging sessions.</sub>
 </p>
