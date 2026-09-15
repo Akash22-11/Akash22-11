@@ -449,14 +449,6 @@ Modern Web
 
 ---
 
-# 📈 DEVELOPER STATS
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akash22-11&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=DC2626&text_color=333333"/>
-
-</p>
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Akash22-11&hide_border=true&background=FFFFFF&ring=DC2626&fire=DC2626&currStreakLabel=111111"/>
