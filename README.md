@@ -448,13 +448,6 @@ Modern Web
 </p>
 
 ---
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Akash22-11&hide_border=true&background=FFFFFF&ring=DC2626&fire=DC2626&currStreakLabel=111111"/>
-
-</p>
-
 ---
 
 # 📜 DEVELOPER PHILOSOPHY
